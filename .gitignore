@@ -1,0 +1,7 @@
+# Fichiers système et temporaires, à ne pas publier
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
