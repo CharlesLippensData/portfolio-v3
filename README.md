@@ -40,4 +40,4 @@ ressource d'un autre serveur ; seuls les liens vers les documents mènent au si
 projets sont fournis par OpenClassrooms ou ouverts ; aucune donnée personnelle de tiers n'est publiée. L'hébergeur,
 GitHub Pages (GitHub, Inc.), enregistre l'adresse IP des visiteurs pour la sécurité du service.
 
-Dernière mise à jour : 1er octobre 2026.
+Dernière mise à jour : 2 octobre 2026.
